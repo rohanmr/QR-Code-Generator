@@ -1,5 +1,5 @@
-# QR-Generator
-QR Code Generator 🧲
+# QR Code Generator
+ 
 
 
 ## About this project 🚀
